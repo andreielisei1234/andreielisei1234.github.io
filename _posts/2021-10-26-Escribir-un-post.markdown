@@ -21,7 +21,7 @@ author: drancope
 ---
 {%endhighlight%}
 
-La segunda parte es el contenido del artículo. Utiliza lenguaje markdown. Así que podemos usar * para dar énfasis (itálicas) , doble * para negritas, y # para los encabezados. Recomiendo usar a partir del encabezado de segundo nivel (##), ya que el de primer nivel se usa para el título del artículo.
+La segunda parte es el contenido del artículo. Utiliza lenguaje markdown. Así que podemos usar * para dar énfasis (itálicas) , doble * para negritas, y # para los encabezados. Recomiendo usar a partir del encabezado de segundo nivel (##), ya que el de primer nivel se usa para el título del artículo. 
 
 Se puede incluir código html dentro del artículo, aunque puede que estorbe un poco.
 
