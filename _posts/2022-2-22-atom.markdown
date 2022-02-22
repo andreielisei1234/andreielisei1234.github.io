@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "atom editor de textos"
+date:   2022-2-22 14:36:34
+categories: Novedades
+author: Andrei
+---
+
+#atom editar textos
+ El profesor me dice que tengo que poner cosas aqui, pero no se que poner xD.
